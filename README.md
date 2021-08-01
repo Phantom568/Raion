@@ -1,6 +1,6 @@
 # Raion
 
-I decided to make this public as it has been being passed arround in private for a while and people think they are cool for having it.
+I decided to make this public as it has been being passed around in private for a while and people think they are cool for having it.
 
 # What is raion?
 
